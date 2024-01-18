@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:EasyWiFiConnect"
         mc:Ignorable="d"
-        Title="MainWindow" Height="225" Width="400" Background="Black">
+        Title="EasyWiFiConnect" Height="225" Width="400" Background="Black">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
