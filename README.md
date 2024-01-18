@@ -2,6 +2,8 @@
 
 EasyWiFiConnect is a straightforward application designed for generating QR codes to simplify the process of connecting to your WiFi network.
 
+![MainWindow](https://github.com/airapet13/EasyWiFiConnect/blob/master/MainWindow.png)
+
 ## Features
 
 - Quickly create QR codes for your WiFi network name and password.
